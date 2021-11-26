@@ -3,7 +3,7 @@ ESP8266-MPU6050
 
 ESP8266 MPU6050 Triple Axis Gyroscope & Accelerometer Library 
 based on MPU6050 Arduino Library from http://www.jarzebski.pl
-modified for ESP8266 compatibility by Emanuele Buchicchio https://github.com/emanbuc 
+modified for ESP8266 compatibility by Emanuele Buchicchio https://github.com/emanbuc now modify by me to work with the different number of bits in esp32 regiters.
 
 Original MPU6050 library reference:
 
